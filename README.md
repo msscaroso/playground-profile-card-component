@@ -20,7 +20,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Live Site](https://jolly-shockley-543e59.netlify.app/)
+- [Live Site](https://wonderful-ramanujan-bb68cc.netlify.app/)
 
 
 ## Built with
